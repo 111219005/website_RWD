@@ -56,6 +56,8 @@ footer > p , footer > time{
 
 nav{
     box-shadow: 0 0 10px 0 #605D64;
+    border-top: 8px solid #DAC3CB;
+    border-bottom: 8px solid #DAC3CB;;
 }
 
 nav, .navbar, .navbar-expand-lg, .bg-body-tertiary, .container-fluid {
